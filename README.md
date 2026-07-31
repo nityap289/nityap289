@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nitya%20Avinash%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineering%20Student%20%7C%20Data%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nitya%20Avinash%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineering%20Student%20%7C%20Data%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="Nitya Avinash Patil - AI Engineering Student"/>
+
+### Nitya Avinash Patil
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Engineering+Student;Data+%26+ML+Enthusiast;Turning+Data+Into+Decisions;Open+to+AI%2FML+%26+PM+Roles" alt="Typing SVG" />
 
