@@ -192,26 +192,33 @@ Led the analysis of sales and business performance data, building interactive da
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=nityap289&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nityap289&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<img src="https://streak-stats.demolab.com?user=nityap289&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityap289&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
 
 </div>
+
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nityap289&theme=radical&no-frame=true&column=4&margin-w=15" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=nityap289&theme=radical&no-frame=true&column=4&margin-w=15"/>
+
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nityap289&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nityap289&theme=github-dark&hide_border=true"/>
+
 </div>
 
 ---
@@ -219,10 +226,12 @@ Led the analysis of sales and business performance data, building interactive da
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/nityap289/nityap289/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
 
-> Set up via the GitHub Action described in the implementation guide below.
+<p>If the snake image does not appear, enable the GitHub Action that generates it.</p>
+
+<img src="https://raw.githubusercontent.com/nityap289/nityap289/output/github-contribution-grid-snake.svg"/>
+
+</div>
 
 ---
 
